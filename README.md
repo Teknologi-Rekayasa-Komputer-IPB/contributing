@@ -467,11 +467,9 @@ to someone (_else_) for review.
 + ***Never*** merge your _own_ pull requests on a **_team_ project**.
 **No Exceptions**. Just ***don't do it***.
 
-A good example PR: https://github.com/indexzero/ps-tree/pull/12
-created from the ***need***
+A good PR created from the ***need***
 which was ***validated*** and ***discussed*** in
-an **issue** https://github.com/indexzero/ps-tree/issues/10
-***before*** _any_ work was performed.
+an **issue** _any_ work was performed.
 
 ### Inspired By
 
