@@ -477,5 +477,5 @@ an **issue** https://github.com/indexzero/ps-tree/issues/10
 
 Guidelines for creating user stories are adapted from
 [DWYL's](https://github.com/dwyl)
-[**user-story-checklist**]((https://github.com/dwyl/contributing/blob/main/README.md))
+[**contribution**]((https://github.com/dwyl/contributing/blob/main/README.md))
 repo. Check it out! :heart:
