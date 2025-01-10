@@ -36,19 +36,10 @@ or if you have _**a suggestion** for how to **simplify/streamline**_ it!
 + [Example User-focused "Story" Descriptions](https://github.com/Teknologi-Rekayasa-Komputer-IPB/contributing#notes-on-effective-contributing)
   + [Example User-focused "Story" Descriptions](https://github.com/Teknologi-Rekayasa-Komputer-IPB/contributing#example-user-focused-story-descriptions)
   + [Writing Good Issues](https://github.com/Teknologi-Rekayasa-Komputer-IPB/contributing#include-anyall-relevant-information-in-the-issue-description)
-+ [Practical Note on Time Estimation for a Story/Task](#practical-note-on-time-estimation-for-a-storytask)
-  + [Revising a Time Estimate](https://github.com/Teknologi-Rekayasa-Komputer-IPB/contributing#revising-a-time-estimate)
-  + [Estimating for _open source_ projects without sprints](https://github.com/Teknologi-Rekayasa-Komputer-IPB/contributing#estimating-for-open-source-modules-without-sprints)
 + [Notes on Creating Good Pull Requests](https://github.com/Teknologi-Rekayasa-Komputer-IPB/contributing#notes-on-creating-good-pull-requests)
   + [1. Keep it Small and Simple](#1-keep-it-small-and-simple)
   + [2. Descriptive Pull Request Title and Description](#2-descriptive-pull-request-title-and-description)
   + [3. PR Etiquette](https://github.com/Teknologi-Rekayasa-Komputer-IPB/contributing#3-pr-etiquette)
-+ [Creating a New Repository](#creating-a-new-repository)
-  + [Use Cases for Creating a New Repo](#use-cases-for-creating-a-new-repo)
-  + [How?](#how)
-  + [Minimum Requirements for a New Repository](#minimum-requirements-for-a-new-repository)
-+ [Forking Repositories](#forking-repositories-into-dwyl)
-+ [General Notes](https://github.com/Teknologi-Rekayasa-Komputer-IPB/contributing#general-notes)
 <br/>
 
 # Part 1: _Describe_ your Question, the Idea or User Story in an Issue
